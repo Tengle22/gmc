@@ -277,6 +277,8 @@ h6 {
 p {
   margin-bottom: 20px;
   font-weight: 300;
+  color: #222;
+  text-align: center;
 }
 
 a {
