@@ -299,8 +299,9 @@ p {
 .homeimages {
 	width:100%;
 }
-.fb-like{
+.fb-like fb_iframe_widget{
 	text-align:center;
+	display:block;
 }
 a {
   font-weight: bold;
