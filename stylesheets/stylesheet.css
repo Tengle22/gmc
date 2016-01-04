@@ -98,7 +98,7 @@ header h2 {
 }
 
 .inner {
-  width: 60%;
+  width: 90%;
   margin: 0 auto;
 }
 
@@ -319,7 +319,10 @@ padding:1%;
 	max-height:100%;
 	align-self:center;
 }
-
+.header2{
+	display:flex;
+	justify-content:space-between;
+}
 .fb-like fb_iframe_widget{
 	text-align:center;
 	display:block;
