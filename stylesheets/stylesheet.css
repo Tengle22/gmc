@@ -319,6 +319,9 @@ padding:1%;
 	max-height:100%;
 	align-self:center;
 }
+.googlemap{
+	text-align:center;
+}
 .header2{
 	display:flex;
 	justify-content:space-between;
